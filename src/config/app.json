@@ -1,0 +1,19 @@
+{
+  "domain": {
+    "env": {
+      "siteUrl": "https://scriptophobia.com/"
+    },
+    "env_test": {
+      "siteUrl": "https://localhost/"
+    }
+  },
+  "API": {
+    "WP": "wpapi/",
+    "VER": "v1/"
+    
+  },
+  "endpoint": {
+    "token": "token/"
+  },
+  "getKey" : "getkey/"
+}
